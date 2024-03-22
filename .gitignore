@@ -1,0 +1,4 @@
+*.ipynb_checkpoints/
+*.txt
+*data/glove.6B.100d.txt
+data/
